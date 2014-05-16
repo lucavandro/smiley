@@ -7,7 +7,7 @@ Smiley is a simple css library for using inline smiles ( a.k.a. emoticons).
 EMOTICONS
 -----------
 
-```html
+
 <span class="smiley-act-up"></span>![act-up](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/act-up.png)
 <span class="smiley-airplane"></span>![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png)
 <span class="smiley-alien"></span>![](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/act-up.png)
@@ -180,7 +180,7 @@ EMOTICONS
 <span class="smiley-waiting"></span>![](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/act-up.png)
 <span class="smiley-excruciating"></span>![](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/act-up.png)
 
-```
+
 
 
 THANKS
