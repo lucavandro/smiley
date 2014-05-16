@@ -62,7 +62,7 @@ EMOTICONS
 
 ![cloudy](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/cloudy.png) &lt;span class=&quot;smiley-cloudy&quot;&gt;&lt;/span&gt;
 
-![smiley-clover](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/smiley-clover.png) &lt;span class=&quot;smiley-clover&quot;&gt;&lt;/span&gt;
+![clover](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/clover.png) &lt;span class=&quot;smiley-clover&quot;&gt;&lt;/span&gt;
 
 ![clown](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/clown.png) &lt;span class=&quot;smiley-clown&quot;&gt;&lt;/span&gt;
 
@@ -200,17 +200,9 @@ EMOTICONS
 
 ![moon](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/moon.png) &lt;span class=&quot;smiley-moon&quot;&gt;&lt;/span&gt;
 
-![msn-away](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/msn-away.png) &lt;span class=&quot;smiley-msn-away&quot;&gt;&lt;/span&gt;
+![musical-note](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/musical-note.png) &lt;span class=&quot;smiley-musical-note&quot;&gt;&lt;/span&gt;
 
-![msn-busy](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/msn-busy.png) &lt;span class=&quot;smiley-msn-busy&quot;&gt;&lt;/span&gt;
-
-![msn](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/msn.png) &lt;span class=&quot;smiley-msn&quot;&gt;&lt;/span&gt;
-
-![msn-online](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-msn-online&quot;&gt;&lt;/span&gt;
-
-![musical-note](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-musical-note&quot;&gt;&lt;/span&gt;
-
-![nailbiting](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-nailbiting&quot;&gt;&lt;/span&gt;
+![nailbiting](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/nailbiting.png) &lt;span class=&quot;smiley-nailbiting&quot;&gt;&lt;/span&gt;
 
 ![neutral](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/neutral.png) &lt;span class=&quot;smiley-neutral&quot;&gt;&lt;/span&gt;
 
@@ -284,9 +276,9 @@ EMOTICONS
 
 ![sleepy](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/sleepy.png) &lt;span class=&quot;smiley-sleepy&quot;&gt;&lt;/span&gt;
 
-![smiley-big](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/smiley-big.png) &lt;span class=&quot;smiley-smiley-big&quot;&gt;&lt;/span&gt;
+![smile-big](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/smile-big.png) &lt;span class=&quot;smile-smiley-big&quot;&gt;&lt;/span&gt;
 
-![smiley](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/smiley.png) &lt;span class=&quot;smiley-smiley&quot;&gt;&lt;/span&gt;
+![smile](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/smile.png) &lt;span class=&quot;smiley-smile&quot;&gt;&lt;/span&gt;
 
 ![smirk](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/smirk.png) &lt;span class=&quot;smiley-smirk&quot;&gt;&lt;/span&gt;
 
