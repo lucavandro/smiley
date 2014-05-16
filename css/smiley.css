@@ -1,6 +1,6 @@
 [class*=smiley-]{ 
 	display: inline-block; 
-	background: url('smiley.png') no-repeat; 
+	background: url('../img/smiley.png') no-repeat; 
 	width:24px; 
 	height:24px;
 }
