@@ -62,7 +62,7 @@ EMOTICONS
 
 ![cloudy](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/cloudy.png) &lt;span class=&quot;smiley-cloudy&quot;&gt;&lt;/span&gt;
 
-![clode](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/clode.png) &lt;span class=&quot;smiley-clover&quot;&gt;&lt;/span&gt;
+![smiley-clover](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/smiley-clover.png) &lt;span class=&quot;smiley-clover&quot;&gt;&lt;/span&gt;
 
 ![clown](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/clown.png) &lt;span class=&quot;smiley-clown&quot;&gt;&lt;/span&gt;
 
@@ -136,7 +136,7 @@ EMOTICONS
 
 ![glasses-cool](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/glasses-cool.png) &lt;span class=&quot;smiley-glasses-cool&quot;&gt;&lt;/span&gt;
 
-![nerdy](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/nerdy.png) &lt;span class=&quot;smiley-glasses-nerdy&quot;&gt;&lt;/span&gt;
+![glasses-nerdy](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/glasses-nerdy.png) &lt;span class=&quot;smiley-glasses-nerdy&quot;&gt;&lt;/span&gt;
 
 ![go-away](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/go-away.png) &lt;span class=&quot;smiley-go-away&quot;&gt;&lt;/span&gt;
 
@@ -158,9 +158,9 @@ EMOTICONS
 
 ![hungry](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/hungry.png) &lt;span class=&quot;smiley-hungry&quot;&gt;&lt;/span&gt;
 
-![hypnotize](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/hypnotize.png) &lt;span class=&quot;smiley-hypnotized&quot;&gt;&lt;/span&gt;
+![hypnotized](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/hypnotized.png) &lt;span class=&quot;smiley-hypnotized&quot;&gt;&lt;/span&gt;
 
-![love](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/love.png) &lt;span class=&quot;smiley-in-love&quot;&gt;&lt;/span&gt;
+![in-love](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/in-love.png) &lt;span class=&quot;smiley-in-love&quot;&gt;&lt;/span&gt;
 
 ![island](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/island.png) &lt;span class=&quot;smiley-island&quot;&gt;&lt;/span&gt;
 
@@ -198,157 +198,157 @@ EMOTICONS
 
 ![monkey](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/monkey.png) &lt;span class=&quot;smiley-monkey&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-moon&quot;&gt;&lt;/span&gt;
+![moon](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/moon.png) &lt;span class=&quot;smiley-moon&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-msn-away&quot;&gt;&lt;/span&gt;
+![msn-away](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/msn-away.png) &lt;span class=&quot;smiley-msn-away&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-msn-busy&quot;&gt;&lt;/span&gt;
+![msn-busy](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/msn-busy.png) &lt;span class=&quot;smiley-msn-busy&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-msn&quot;&gt;&lt;/span&gt;
+![msn](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/msn.png) &lt;span class=&quot;smiley-msn&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-msn-online&quot;&gt;&lt;/span&gt;
+![msn-online](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-msn-online&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-musical-note&quot;&gt;&lt;/span&gt;
+![musical-note](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-musical-note&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-nailbiting&quot;&gt;&lt;/span&gt;
+![nailbiting](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-nailbiting&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-neutral&quot;&gt;&lt;/span&gt;
+![neutral](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/neutral.png) &lt;span class=&quot;smiley-neutral&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-party&quot;&gt;&lt;/span&gt;
+![party](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/party.png) &lt;span class=&quot;smiley-party&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-peace&quot;&gt;&lt;/span&gt;
+![peace](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/peace.png) &lt;span class=&quot;smiley-peace&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-phone&quot;&gt;&lt;/span&gt;
+![phone](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/phone.png) &lt;span class=&quot;smiley-phone&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-pig&quot;&gt;&lt;/span&gt;
+![pig](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/pig.png) &lt;span class=&quot;smiley-pig&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-pill&quot;&gt;&lt;/span&gt;
+![pill](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/pill.png) &lt;span class=&quot;smiley-pill&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-pissed-off&quot;&gt;&lt;/span&gt;
+![pissed-off](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/pissed-off.png) &lt;span class=&quot;smiley-pissed-off&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-pizza&quot;&gt;&lt;/span&gt;
+![pizza](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/pizza.png) &lt;span class=&quot;smiley-pizza&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-plate&quot;&gt;&lt;/span&gt;
+![plate](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/plate.png) &lt;span class=&quot;smiley-plate&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-poop&quot;&gt;&lt;/span&gt;
+![poop](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/poop.png) &lt;span class=&quot;smiley-poop&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-pray&quot;&gt;&lt;/span&gt;
+![pray](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/pray.png) &lt;span class=&quot;smiley-pray&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-present&quot;&gt;&lt;/span&gt;
+![present](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/present.png) &lt;span class=&quot;smiley-present&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-pumpkin&quot;&gt;&lt;/span&gt;
+![pumpkin](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/pumpkin.png) &lt;span class=&quot;smiley-pumpkin&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-qq&quot;&gt;&lt;/span&gt;
+![qq](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/qq.png) &lt;span class=&quot;smiley-qq&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-question&quot;&gt;&lt;/span&gt;
+![question](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/question.png) &lt;span class=&quot;smiley-question&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-quiet&quot;&gt;&lt;/span&gt;
+![quiet](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/quiet.png) &lt;span class=&quot;smiley-quiet&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-rain&quot;&gt;&lt;/span&gt;
+![rain](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/rain.png) &lt;span class=&quot;smiley-rain&quot;&gt;&lt;/span&gt;
 
 ![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-rainbow&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-rose-dead&quot;&gt;&lt;/span&gt;
+![rose-dead](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/rose-dead.png) &lt;span class=&quot;smiley-rose-dead&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-rose&quot;&gt;&lt;/span&gt;
+![rose](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/rose.png) &lt;span class=&quot;smiley-rose&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-rotfl&quot;&gt;&lt;/span&gt;
+![rotfl](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/rotfl.png) &lt;span class=&quot;smiley-rotfl&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-sad&quot;&gt;&lt;/span&gt;
+![sad](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/sad.png) &lt;span class=&quot;smiley-sad&quot;&gt;&lt;/span&gt;
 
 ![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-sarcastic&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-search&quot;&gt;&lt;/span&gt;
+![search](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/search.png) &lt;span class=&quot;smiley-search&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-secret&quot;&gt;&lt;/span&gt;
+![secret](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/secret.png) &lt;span class=&quot;smiley-secret&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-shame&quot;&gt;&lt;/span&gt;
+![shame](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/shame.png) &lt;span class=&quot;smiley-shame&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-sheep&quot;&gt;&lt;/span&gt;
+![sheep](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/sheep.png) &lt;span class=&quot;smiley-sheep&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-shock&quot;&gt;&lt;/span&gt;
+![shock](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/shock.png) &lt;span class=&quot;smiley-shock&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-shout&quot;&gt;&lt;/span&gt;
+![shout](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/shout.png) &lt;span class=&quot;smiley-shout&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-shut-mouth&quot;&gt;&lt;/span&gt;
+![shut-mouth](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/shut-mouth.png) &lt;span class=&quot;smiley-shut-mouth&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-sick&quot;&gt;&lt;/span&gt;
+![sick](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/sick.png) &lt;span class=&quot;smiley-sick&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-sigarette&quot;&gt;&lt;/span&gt;
+![sigarette](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/sigarette.png) &lt;span class=&quot;smiley-sigarette&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-silly&quot;&gt;&lt;/span&gt;
+![silly](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/silly.png) &lt;span class=&quot;smiley-silly&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-skeleton&quot;&gt;&lt;/span&gt;
+![skeleton](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/skeleton.png) &lt;span class=&quot;smiley-skeleton&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-skywalker&quot;&gt;&lt;/span&gt;
+![skywalker](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/skywalker.png) &lt;span class=&quot;smiley-skywalker&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-sleepy&quot;&gt;&lt;/span&gt;
+![sleepy](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/sleepy.png) &lt;span class=&quot;smiley-sleepy&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-smiley-big&quot;&gt;&lt;/span&gt;
+![smiley-big](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/smiley-big.png) &lt;span class=&quot;smiley-smiley-big&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-smiley&quot;&gt;&lt;/span&gt;
+![smiley](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/smiley.png) &lt;span class=&quot;smiley-smiley&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-smirk&quot;&gt;&lt;/span&gt;
+![smirk](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/smirk.png) &lt;span class=&quot;smiley-smirk&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-snail&quot;&gt;&lt;/span&gt;
+![snail](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/snail.png) &lt;span class=&quot;smiley-snail&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-snicker&quot;&gt;&lt;/span&gt;
+![snicker](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/snicker.png) &lt;span class=&quot;smiley-snicker&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-snowman&quot;&gt;&lt;/span&gt;
+![snowman](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/snowman.png) &lt;span class=&quot;smiley-snowman&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-soccerball&quot;&gt;&lt;/span&gt;
+![soccerball](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/soccerball.png) &lt;span class=&quot;smiley-soccerball&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-soldier&quot;&gt;&lt;/span&gt;
+![soldier](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/soldier.png) &lt;span class=&quot;smiley-soldier&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-star&quot;&gt;&lt;/span&gt;
+![star](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/star.png) &lt;span class=&quot;smiley-star&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-starving&quot;&gt;&lt;/span&gt;
+![starving](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/starving.png) &lt;span class=&quot;smiley-starving&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-struggle&quot;&gt;&lt;/span&gt;
+![struggle](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/struggle.png) &lt;span class=&quot;smiley-struggle&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-sun&quot;&gt;&lt;/span&gt;
+![sun](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/sun.png) &lt;span class=&quot;smiley-sun&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-sweat&quot;&gt;&lt;/span&gt;
+![sweat](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/sweat.png) &lt;span class=&quot;smiley-sweat&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-teeth&quot;&gt;&lt;/span&gt;
+![teeth](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/teeth.png) &lt;span class=&quot;smiley-teeth&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-terror&quot;&gt;&lt;/span&gt;
+![terror](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/terror.png) &lt;span class=&quot;smiley-terror&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-thinking&quot;&gt;&lt;/span&gt;
+![thinking](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/thinking.png) &lt;span class=&quot;smiley-thinking&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-thunder&quot;&gt;&lt;/span&gt;
+![thunder](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/thunder.png) &lt;span class=&quot;smiley-thunder&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-tongue&quot;&gt;&lt;/span&gt;
+![tongue](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/tongue.png) &lt;span class=&quot;smiley-tongue&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-tremble&quot;&gt;&lt;/span&gt;
+![tremble](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/tremble.png) &lt;span class=&quot;smiley-tremble&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-turtle&quot;&gt;&lt;/span&gt;
+![turtle](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/turtle.png) &lt;span class=&quot;smiley-turtle&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-tv&quot;&gt;&lt;/span&gt;
+![tv](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/tv.png) &lt;span class=&quot;smiley-tv&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-umbrella&quot;&gt;&lt;/span&gt;
+![umbrella](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/umbrella.png) &lt;span class=&quot;smiley-umbrella&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-vampire&quot;&gt;&lt;/span&gt;
+![vampire](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/vampire.png) &lt;span class=&quot;smiley-vampire&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-victory&quot;&gt;&lt;/span&gt;
+![victory](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/victory.png) &lt;span class=&quot;smiley-victory&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-watermelon&quot;&gt;&lt;/span&gt;
+![watermelon](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/watermelon.png) &lt;span class=&quot;smiley-watermelon&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-weep&quot;&gt;&lt;/span&gt;
+![weep](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/weep.png) &lt;span class=&quot;smiley-weep&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-wilt&quot;&gt;&lt;/span&gt;
+![wilt](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/wilt.png) &lt;span class=&quot;smiley-wilt&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-wink&quot;&gt;&lt;/span&gt;
+![wink](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/wink.png) &lt;span class=&quot;smiley-wink&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-worship&quot;&gt;&lt;/span&gt;
+![worship](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/worship.png) &lt;span class=&quot;smiley-worship&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-yawn&quot;&gt;&lt;/span&gt;
+![yawn](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/yawn.png) &lt;span class=&quot;smiley-yawn&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-yin-yang&quot;&gt;&lt;/span&gt;
+![yin-yang](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/yin-yang.png) &lt;span class=&quot;smiley-yin-yang&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-waiting&quot;&gt;&lt;/span&gt;
+![waiting](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/waiting.png) &lt;span class=&quot;smiley-waiting&quot;&gt;&lt;/span&gt;
 
-![airplane](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/airplane.png) &lt;span class=&quot;smiley-excruciating&quot;&gt;&lt;/span&gt;
+![excruciating](https://raw.githubusercontent.com/Ianus/smiley/master/source_img/excruciating.png) &lt;span class=&quot;smiley-excruciating&quot;&gt;&lt;/span&gt;
 
 
 
