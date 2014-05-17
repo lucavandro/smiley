@@ -3,6 +3,7 @@
 	background: url('../img/smiley.png') no-repeat; 
 	width:24px; 
 	height:24px;
+	vertical-align: middle;
 }
  .smiley-act-up { background-position: -2px -0px;}
 .smiley-airplane { background-position: -2px -26px;}
